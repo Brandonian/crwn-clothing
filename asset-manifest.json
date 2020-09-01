@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/laravel-ecommerce-application/static/css/main.2743bfd6.chunk.css",
+    "main.js": "/laravel-ecommerce-application/static/js/main.bcc1ae5e.chunk.js",
+    "main.js.map": "/laravel-ecommerce-application/static/js/main.bcc1ae5e.chunk.js.map",
+    "runtime-main.js": "/laravel-ecommerce-application/static/js/runtime-main.dc356134.js",
+    "runtime-main.js.map": "/laravel-ecommerce-application/static/js/runtime-main.dc356134.js.map",
+    "static/js/2.cb256c35.chunk.js": "/laravel-ecommerce-application/static/js/2.cb256c35.chunk.js",
+    "static/js/2.cb256c35.chunk.js.map": "/laravel-ecommerce-application/static/js/2.cb256c35.chunk.js.map",
+    "index.html": "/laravel-ecommerce-application/index.html",
+    "precache-manifest.9bb68634c4e77964346f6ca0f1079cb4.js": "/laravel-ecommerce-application/precache-manifest.9bb68634c4e77964346f6ca0f1079cb4.js",
+    "service-worker.js": "/laravel-ecommerce-application/service-worker.js",
+    "static/css/main.2743bfd6.chunk.css.map": "/laravel-ecommerce-application/static/css/main.2743bfd6.chunk.css.map",
+    "static/js/2.cb256c35.chunk.js.LICENSE.txt": "/laravel-ecommerce-application/static/js/2.cb256c35.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/laravel-ecommerce-application/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc356134.js",
+    "static/js/2.cb256c35.chunk.js",
+    "static/css/main.2743bfd6.chunk.css",
+    "static/js/main.bcc1ae5e.chunk.js"
+  ]
+}
